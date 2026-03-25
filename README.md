@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sajjad Khan 👋
 
-<!--
-**sajjadkhan577/sajjadkhan577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | JavaScript | Learning Full Stack
 
-Here are some ideas to get you started:
+🚀 Projects:
+- ExpenseFlow – Expense Tracker PWA
+- TechNova Store – E-commerce Website
+- World Clock – Multi-feature time app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills:
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Learning: Node.js, MongoDB
+
+📫 Connect with me:
+- LinkedIn: https://linkedin.com/in/sajjad-khan-544526378
+- Email : sajjad2003khan@gmail.com
