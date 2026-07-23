@@ -2,9 +2,9 @@
 
 # Hi, I'm Sajjad Khan 👋
 
-### Frontend Developer | Building Clean, Functional Web Experiences
+### Full Stack Developer | Building Clean, Functional Web Experiences — Frontend to Backend
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sajjadkhan577)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://sajjadkhan577-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjad2003khan@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sajjad._.khanx)
 
@@ -14,13 +14,15 @@
 
 ## 🚀 About Me
 
-I'm a frontend developer from Pakistan, focused on turning ideas into clean, functional, and visually polished web applications. I care about writing maintainable code and building interfaces that people actually enjoy using.
+I'm a full stack developer from Pakistan, building complete web applications end to end — from responsive, user-friendly interfaces to the databases and server logic that power them. I care about writing maintainable code and shipping products that work well on both ends.
 
-- 🔭 **Currently building:** A full-featured Restaurant Management Website
+- 🔭 **Currently building:** A full-featured Restaurant Management Website (frontend + backend)
 - 🌱 **Currently learning:** Advanced JavaScript patterns, PHP backend development, and modern tooling
-- 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, and responsive UI design
+- 💻 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript
+- 🗄️ **Backend:** PHP, Node.js, MongoDB
+- 💬 **Ask me about:** Building full-stack web apps, from UI to database
 - 📫 **Reach me at:** [sajjad2003khan@gmail.com](mailto:sajjad2003khan@gmail.com)
-- ⚡ **Fun fact:** I love turning ideas into clean, functional web pages
+- ⚡ **Fun fact:** I love turning ideas into clean, functional, fully working web pages
 
 ---
 
