@@ -1,9 +1,3 @@
-<!--
-HOW TO USE
-1. Open github.com/sajjadkhan577/sajjadkhan577 -> README.md -> edit -> replace everything with this file.
-2. Replace every [BRACKETED] item with a real link or screenshot. Delete a project block if you can't add a live link.
--->
-
 <div align="center">
 
 # Sajjad Khan
